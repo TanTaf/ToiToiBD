@@ -1,0 +1,9 @@
+.btn{
+-fx-background-color:transparent;
+}
+.btn:hover{
+-fx-background-color:black;
+}
+.btn:focused{
+-fx-background-color:blue;
+}
